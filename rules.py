@@ -90,4 +90,11 @@ def with_child(x):
             return 1
     return 0
 
+def is_ep(x):
+    keys = ['ep','EP']
+    for key in keys:
+        if key in x:
+            return 1
+    return 0
+
 #%%
