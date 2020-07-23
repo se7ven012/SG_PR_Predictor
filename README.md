@@ -4,7 +4,7 @@ Singapore PR application predictor
 
 ## Data
 
-Application data is obtained from [here](http://sgprapp.com/listPage?&page=0)
+Application data is obtained from [here](http://sgprapp.com/listPage?&page=0)  
 For each applicant, the data is categorized into 11 attributes
 
 * year_of_stay   (Years of applicant stay in Singapore)
