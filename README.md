@@ -21,7 +21,7 @@ For each applicant, the data is categorized into 11 attributes：
 
 ## Quick Start
 
-1. Download python orange3 from [here](https://github.com/biolab/orange3)
-2. Run orange3 and import [pr.ows](SG_PR_Predictor/pr.ows)
-3. Prepare your own prediction data and make it as test data
-4. Run prediction in orange3
+1. Download python orange3 from [here](https://github.com/biolab/orange3).
+2. Run orange3 and import [pr.ows](https://github.com/se7ven012/SG_PR_Predictor/blob/master/pr.ows).
+3. Prepare your own prediction data and make it as test data.
+4. Run prediction in orange3.
