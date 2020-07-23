@@ -28,7 +28,7 @@ def get_year_of_stay(x):
     return 0
 
 def is_local_uni(x):
-    keys = ['nus','NUS','ntu','NTU','SMU','sm','SM','SIM','本地大学','公立大学','国立大学','南阳理工']
+    keys = ['nus','NUS','ntu','NTU','SMU','sm','SM','SIM','本地大学','公立大学','国立大学','南洋']
     for key in keys:
         if key in x:
             return 1
