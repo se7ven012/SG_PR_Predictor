@@ -4,9 +4,9 @@ Singapore PR application predictor
 
 ## Data
 
-Application data is obtained from [here](http://sgprapp.com/listPage?&page=0)  
-For each applicant, the data is categorized into 11 attributes
+Application data is obtained from [here](http://sgprapp.com/listPage?&page=0).  
 
+For each applicant, the data is categorized into 11 attributes：
 * year_of_stay   (Years of applicant stay in Singapore)
 * is_local_uni   (Applicant is graduated from a local university)
 * is_local_poly  (Applicant is graduated from a local polytechnic)
